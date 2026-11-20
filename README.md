@@ -1,6 +1,6 @@
 # Tab releases
 
-Downloads for **Tab**, a pre-alpha web browser built from scratch. https://gettab.dev
+Downloads for **Tab**, a pre-alpha web browser. Not a wrapper: no Chromium, no WebView. https://gettab.dev
 
 Only the **latest** build is published here. Every older build is removed when a new one ships:
 demo builds insist on updating 7 days after they're built, so everyone stays on the current one.
